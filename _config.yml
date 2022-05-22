@@ -32,10 +32,10 @@ description: >                        # used by seo meta and the atom feed
 url: ''
 
 github:
-  username: github_username             # change to your github username
+  username: schuwald             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: Sonia Schu            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -99,7 +99,7 @@ comments:
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo:             # <gh-username>/<repo>
+    repo: schuwald/schuwald.github.io             # <gh-username>/<repo>
     repo_id:
     category:
     category_id:
