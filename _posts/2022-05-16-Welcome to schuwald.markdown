@@ -1,5 +1,5 @@
 ---
-title:  <span style="color:darkgreen"> Welcome to schuland</span>
+title:   Welcome to schuland
 date:   2022-05-16 17:19:11 +0800
 categories: "Essay"
 pin: true
