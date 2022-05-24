@@ -1,5 +1,5 @@
 ---
-title: 【芝锋】考古碎片
+title: 芝锋｜考古碎片
 date: 2022-05-22
 author:
   name: 森森
