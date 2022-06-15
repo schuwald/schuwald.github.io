@@ -2,7 +2,7 @@
 title: 随机问答
 date: 2022-06-16
 author:
-  name: 森森
+  name: schu
 categories: "Review"
 tags: "杂谈"
 ---
