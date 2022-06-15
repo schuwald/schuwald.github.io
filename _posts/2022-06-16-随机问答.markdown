@@ -1,7 +1,8 @@
 ---
 title: 随机问答
 date: 2022-06-16
-author: <author_id>
+author: 
+  name: 森森
 categories: "Review"
 tags: "杂谈"
 ---
