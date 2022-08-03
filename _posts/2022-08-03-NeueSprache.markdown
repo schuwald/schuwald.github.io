@@ -8,12 +8,12 @@ tags: "杂谈"
 ---
 
 
-<span style="color:darkblue"> 本项目灵感来源于我的好友S君做的[New Speaking]( https://matterofti.me/samizda/new-speak "New Speaking")</span>
+<span style="color:darkblue"> 本项目灵感来源于我的好友S君做的[New Speak]( https://matterofti.me/samizda/new-speak "New Speaking")</span>
 
 ___________________________________________
 
-| 德语 | 中文 |
-| ------| ------ |
+| **德语** | **中文** |
+| :------:| :------: |
 | Fäuste ballen | 拳头硬了 |
 | Von welchem Stern bist du denn | 村通网 |
 | beleidigend | 亵渎（TSV爱说的sacrilegious）|
