@@ -24,3 +24,4 @@ ___________________________________________
 | Hirngepinst n. | 学术垃圾 |
 | Kinnlade runterfallen | 惊掉下巴 |
 | Salz in die Wunde streuen | 伤口上撒盐 |
+| Schnickschnack, Papperlapapp, Kladderadatsch, Kokolores | 无中生有，暗渡陈仓，凭空想象，凭空捏造 |
